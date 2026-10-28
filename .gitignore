@@ -1,0 +1,8 @@
+# Local database backups and secrets must never be committed
+*.dump
+*.backup
+*.sql.gz
+.env
+.env.*
+*.pem
+*.key
